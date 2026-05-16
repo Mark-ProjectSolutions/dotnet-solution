@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="backend.api/backend.api.csproj" />
+  <Project Path="backend.application.tests/backend.application.tests.csproj" Id="1ff8dc9c-6adc-491c-b8eb-c52267aba10d" />
   <Project Path="backend.application/backend.application.csproj" />
   <Project Path="backend.domain/backend.domain.csproj" />
   <Project Path="backend.infrastructure/backend.infrastructure.csproj" />
